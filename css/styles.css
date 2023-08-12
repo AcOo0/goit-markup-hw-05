@@ -900,9 +900,6 @@ button {
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: var(--subtle-text-color, #8E8F99);
-    display: flex;
-    align-items: center;
-
 }
 
 .modal-check-link {
